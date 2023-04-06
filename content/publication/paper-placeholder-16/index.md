@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
-publication_short: " ![honorable mention](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/newline.png) In CHI'23"
+publication_short: "![Best Paper](https://raw.githubusercontent.com/tiffanygewang/tiffany.ge.wang/master/assets/media/best.png) In CHI'23"
 
 abstract: "Datafication refers to the practices through which children's online actions are pervasively recorded, tracked, aggregated, analysed, and exploited by online services in ways including behavioural engineering and monetisation. Previous research has shown that not only do children care significantly about various aspects of datafication, but they demand a chance to take action. Through 10 co-design sessions with 53 children, we examined how children in the UK want to be supported to cope with the datafication practices. Our findings provide insights for creating age-appropriate support for children's algorithmic literacy development, highlighting and unpacking the importance of no one-size-fitting-all designs to support children's coping with datafication. We contribute a first understanding of how children aged 7--14 would like to be supported with datafication and what future data-driven digital experiences should be like for them, who demand a shift of the current data ecosystem towards a more humane-by-design and autonomy-supportive future."
 
