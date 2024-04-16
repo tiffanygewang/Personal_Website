@@ -43,7 +43,7 @@ email: "ge.wang[at]cs.ox.ac.uk"
 superuser: true
 highlight_name: true
 ---
-**Update: Excited to share that I will be joing the Max Planck Institute for Software Systems as a tenure-track faculty (W2) in Fall 2025. I am actively seeking enthusiastic PhD students and postdocs who are eager to explore the future of AI agency, particularly its impact on marginalized and vulnerable populations. If you are interested in contributing to this visionary work, please apply through {{< staticref "https://www.cis.mpg.de/cs-max-planck/" "newtab" >}}CS@Max Planck{{< /staticref >}}. Before that, I will be undertaking the HAI Postdoctoral Fellowship at Stanford HAI from 2024 to 2025.**
+**Update: Excited to share that I will be joining the Max Planck Institute for Software Systems as a tenure-track faculty (W2) in Fall 2025. I am actively seeking enthusiastic PhDs and postdocs to explore the future of AI agency, particularly its impact on marginalized and vulnerable populations. Please apply through {{< staticref "https://www.cis.mpg.de/cs-max-planck/" "newtab" >}}CS@Max Planck{{< /staticref >}} if you're interested. Before that, I will be undertaking the HAI Postdoctoral Fellowship at Stanford HAI from 2024 to 2025.**
 
 I’m a Dphil student in the Department of Computer Science at University of Oxford, the {{< staticref "https://hcc.cs.ox.ac.uk/" "newtab" >}}Human Centred Computing group{{< /staticref >}}. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, Professor Max Van Kleek, and receives kind support from Professor Reuben Binns. 
 
