@@ -13,7 +13,7 @@ education:
   courses:
     - course: Dphil in Computer Science
       institution: University of Oxford
-      year: 2019 - now
+      year: 2019 - 2024
     - course: MSc (Distinction) in Information Science
       institution: University College London
       year: 2017 - 2018
@@ -43,12 +43,12 @@ email: "ge.wang[at]cs.ox.ac.uk"
 superuser: true
 highlight_name: true
 ---
-**Excited to share that I will be joing the Max Planck Institute for Software Systems as a tenure-track faculty (W2) in Fall 2025. I am actively seeking enthusiastic PhD students and postdocs who are eager to explore the future of AI agency, particularly its impact on marginalized and vulnerable populations. If you are interested in contributing to this visionary work, please apply through {{< staticref "https://www.cis.mpg.de/cs-max-planck/" "newtab" >}}CS@Max Planck{{< /staticref >}}. Before that, I will be working as a postdoctoral fellow at Stanford HAI from 2024 to 2025.**
+**Update: Excited to share that I will be joing the Max Planck Institute for Software Systems as a tenure-track faculty (W2) in Fall 2025. I am actively seeking enthusiastic PhD students and postdocs who are eager to explore the future of AI agency, particularly its impact on marginalized and vulnerable populations. If you are interested in contributing to this visionary work, please apply through {{< staticref "https://www.cis.mpg.de/cs-max-planck/" "newtab" >}}CS@Max Planck{{< /staticref >}}. Before that, I will be undertaking the HAI Postdoctoral Fellowship at Stanford HAI from 2024 to 2025.**
 
 I’m a Dphil student in the Department of Computer Science at University of Oxford, the {{< staticref "https://hcc.cs.ox.ac.uk/" "newtab" >}}Human Centred Computing group{{< /staticref >}}. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, Professor Max Van Kleek, and receives kind support from Professor Reuben Binns. 
 
 Currently, I am working on the {{< staticref "https://koala.web.ox.ac.uk/home" "newtab" >}}KOALA{{< /staticref >}} project (led by Sir Nigel Shadbolt and Dr Jun Zhao), and the {{< staticref "https://ewada.ox.ac.uk/" "newtab" >}}EWADA{{< /staticref >}} project (led by Sir Nigel Shadbolt and Sir Tim Berners-Lee). My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for families, as well as building more ethical web and data architecture for them. My research takes a human-centric approach, and focuses on understanding users' needs in order to design technological prototypes that are of real impact on today's society.
 
-{{< icon name="envelope" pack="fa" >}} Email: ge.wang[at]cs.ox.ac.uk 
+{{< icon name="envelope" pack="fa" >}} Email: tiffanygewang@acm.org
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}. -->
