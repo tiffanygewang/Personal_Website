@@ -43,7 +43,7 @@ email: "ge.wang[at]cs.ox.ac.uk"
 superuser: true
 highlight_name: true
 ---
-**Update: Excited to share that I will be joining the {{< staticref "https://www.mpi-sws.org/" "newtab" >}}Max Planck Institute for Software Systems{{< /staticref >}} as a tenure-track faculty (W2) in Fall 2025. I am actively seeking enthusiastic PhDs and postdocs to explore the future of AI agency, particularly its impact on marginalized and vulnerable populations. Please apply through {{< staticref "https://www.cis.mpg.de/cs-max-planck/" "newtab" >}}CS@Max Planck{{< /staticref >}} if you're interested. Before that, I will be undertaking the HAI Postdoctoral Fellowship at {{< staticref "https://hai.stanford.edu/" "newtab" >}}Stanford HAI{{< /staticref >}} from 2024 to 2025.**   
+**Update: Excited to share that I will be joining the {{< staticref "https://www.mpi-sws.org/" "newtab" >}}Max Planck Institute for Software Systems{{< /staticref >}} as a tenure-track faculty (W2) in Fall 2025. I will be leading the AI Agency lab, and I am actively looking for strong candidates for postdoctoral, PhD, and research internship positions to explore the future of human-centered AI, with a keen focus on marginalized and vulnerable populations. Before that, I will be undertaking the HAI Postdoctoral Fellowship at {{< staticref "https://hai.stanford.edu/" "newtab" >}}Stanford HAI{{< /staticref >}} from 2024 to 2025.**   
 
 I’m a Dphil student in the Department of Computer Science at University of Oxford, the {{< staticref "https://hcc.cs.ox.ac.uk/" "newtab" >}}Human Centred Computing group{{< /staticref >}}. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, Professor Max Van Kleek, and receives kind support from Professor Reuben Binns. 
 
