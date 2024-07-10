@@ -44,9 +44,13 @@ superuser: true
 highlight_name: true
 ---
 
-I am an incoming Postdoctoral Fellow at {{< staticref "https://hai.stanford.edu/" "newtab" >}}Stanford HAI{{< /staticref >}}. I recently graduated with a PhD in Computer Science from the University of Oxford, the {{< staticref "https://hcc.cs.ox.ac.uk/" "newtab" >}}Human Centred Computing group{{< /staticref >}}. My Dphil is supervised by Professor Sir Nigel Shadbolt, Dr. Jun Zhao, Professor Max Van Kleek, and receives kind support from Professor Reuben Binns.    
+Hi! I am an incoming Assistant Professor at {{< staticref "https://cs.illinois.edu/" "newtab" >}}University of Illinois Urbana-Champaign, Dept of Computer Science{{< /staticref >}} (starting in Aug, 2025). My research focuses on the intersection of human-computer interaction (HCI), human-centered artificial intelligence (HAI), and usable security and privacy, with a special emphasis on vulnerable populations.
 
-Currently, I am working on the {{< staticref "https://koala.web.ox.ac.uk/home" "newtab" >}}KOALA{{< /staticref >}} project (led by Sir Nigel Shadbolt and Dr Jun Zhao), and the {{< staticref "https://ewada.ox.ac.uk/" "newtab" >}}EWADA{{< /staticref >}} project (led by Sir Nigel Shadbolt and Sir Tim Berners-Lee). My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for families, as well as building more ethical web and data architecture for them. My research takes a human-centric approach, and focuses on understanding users' needs in order to design technological prototypes that are of real impact on today's society.
+I lead the OATS Lab (Openness, Autonomy, Trust in Supportive AI). As AI becomes increasingly integrated into the smart devices we use daily, sophisticated algorithms analyze our data to evaluate personal characteristics and make impactful decisions. In this digital environment, smart devices have evolved from functional tools to active agents shaping our online experiences and futures. At OATS Lab, we thrive to rethink how AI can be made more autonomy-supportive for individual users, particularly focusing on more vulnerable populations such as children, young people, and other marginalized communities.
+
+I will be doing a one-year postdoctoral fellowship at {{< staticref "https://hai.stanford.edu/" "newtab" >}}Stanford HAI{{< /staticref >}} from 2024 to 2025 before starting my faculty appointment. I received my D.Phil (Ph.D.) in Computer Science from the Department of Computer Science at the University of Oxford and completed my Master’s (MSc) in Information Science at UCL. I did my undergraduate studies in Physics at the University of Oxford.
+
+I have multiple openings for PhDs/Postdocs starting Fall 2025. I always love to work with self-motivated undergraduates, graduate students on various research projects on human-centered AI / usable privacy & security. Shoot me an email if you are interested!
 
 {{< icon name="envelope" pack="fa" >}} Email: tiffanygewang@acm.org
 
