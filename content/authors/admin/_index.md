@@ -1,14 +1,14 @@
 ---
 title: Ge "Tiffany" Wang
-role: DPhil (Ph.D.) student
+# role: DPhil (Ph.D.) student
 bio: I’m a Dphil student in the Department of Computer Science at University of Oxford. My research investigates the algorithmic impact on families and children, and what that means for their long-term development. I’m keen to explore the potential for designing more age-appropriate AI for families, as well as building more ethical web and data architecture for them. My research takes a human-centric approach, and focuses on understanding users' needs in order to design technological prototypes that are of real impact on today's society.
 #interests:
 #  - Human-Computer Interaction
 #  - Age-Appropriate Artificial Intelligence
 #  - Ethical Web and Data Architecture
-organizations:
-  - name: Department of Computer Science, University of Oxford
-    url: https://www.cs.ox.ac.uk/people/ge.wang/
+# organizations:
+#  - name: Department of Computer Science, University of Oxford
+#    url: https://www.cs.ox.ac.uk/people/ge.wang/
 #education:
 #  courses:
 #    - course: Dphil in Computer Science
