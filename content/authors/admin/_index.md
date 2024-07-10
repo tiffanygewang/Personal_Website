@@ -26,18 +26,18 @@ bio: I’m a Dphil student in the Department of Computer Science at University o
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/oxfordccai
-  label: Follow me on Twitter
-  display:
-    header: true
-- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?pli=1&authuser=2&user=X-Cuad0AAAAJ
-  display:
-    header: true
+# social:
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/oxfordccai
+#   label: Follow me on Twitter
+#   display:
+#     header: true
+# - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?pli=1&authuser=2&user=X-Cuad0AAAAJ
+#   display:
+#     header: true
   
 email: "ge.wang[at]cs.ox.ac.uk"
 superuser: true
