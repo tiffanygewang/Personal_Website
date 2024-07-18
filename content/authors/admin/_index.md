@@ -46,6 +46,6 @@ highlight_name: true
 
 Site under maintenance. Be right back.
 
-{{< icon name="envelope" pack="fa" >}} Email: tiffanygewang@acm.org
+{{< icon name="envelope" pack="fa" >}} Email: gew@stanford.edu
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/CV.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}. -->
